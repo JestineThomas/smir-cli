@@ -168,7 +168,7 @@ This updates `pyproject.toml` and installs the required packages.
 
 ```bash
 
-uv run python gemini\_cli.py
+uv run python gemini_cli.py
 
 ```
 
@@ -242,7 +242,7 @@ Write a Python function to check prime numbers
 
 ```
 
-/model Gemini-flash-latest
+/model gemini-flash-latest
 
 ```
 
